@@ -191,6 +191,7 @@ function save() {
     <meta name="keywords" content="העדי שבמטבח">
     <meta name="robots" content="index, follow">
     <link rel="icon" href="img372.webp">
+    <meta property="og:image" content="https://talforsher.github.io/theadi/img372.webp">
     <title>סדנאות שוקולד בפסח ברמת הגולן | העדי שבמטבח</title>
     <style>
         body {
