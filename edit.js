@@ -187,7 +187,7 @@ function save() {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="הסדנה מעשית ורב גילאית. כל משתתף יוצא עם מארז אישי מפנק עם כל התוצרים הטעימים שהכין בסדנה.
+    <meta name="description" content="סדנאות שוקולד בפסח ברמת הגולן. הסדנה מעשית ורב גילאית. כל משתתף יוצא עם מארז אישי מפנק עם כל התוצרים הטעימים שהכין בסדנה.
     <meta name="keywords" content="העדי שבמטבח">
     <meta name="robots" content="index, follow">
     <link rel="icon" href="img372.webp">
